@@ -16,6 +16,7 @@
     <style name="TextAppearance.QSPanel.Date" parent="TextAppearance.StatusBar.Clock">
         <item name="android:textSize">@dimen/qs_panel_date_size</item>
         <item name="android:fontFamily">@*android:string/config_bodyFontFamily</item>
+        <item name="android:textColor">@color/status_bar_clock_color</item>
     </style>
 
 </resources>
